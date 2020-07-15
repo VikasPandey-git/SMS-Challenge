@@ -25,8 +25,8 @@
       b. run command npm install. All dependent node modules will be downloaded and local node module directory will be created.
       c. run command node server.js. Listening on port 3000... msg will be displayed on console.
   5- Setting up Angular server to host app. use below steps for same.
-      a. open the terminal in visual code and navigate to SMS
-      b. run command npm install -g @angular/cli.
+      a. open the terminal in visual code and navigate to SMS-App
+      b. run command npm install
       c. run command ng serve. Server will start on localhost showing the port number details.
   6- Open the chrome browser and enter the url: http://localhost:4200/
   7- App will be loaded and table will be displayed with data.
