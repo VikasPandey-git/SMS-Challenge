@@ -1,7 +1,7 @@
 # SMS-Challenge
 
   Author- Vikas Pandey
-  versio- 1.0
+  version- 1.0
   Description: SMS challenge app is a dashboard app which fetches the data hosted in MongoDB client and displays in a table.
   User can sort the data based on the columns and also can filter the data using date selectors. Pagination has been enabled 
   to traverse the data spread in multiple pages.
